@@ -1,5 +1,6 @@
 # Car-Plate-Recognition
 Car Plate Recognition Application for PC in MATLAB with Image Processing \
+\
 Guide for how to use Plate Recognition App \
 1- Be sure, you have already downloaded the _**imgfildata.mat**_ on your PC or produce this data table with _**Training_imgfildata.m**_ locally \
 2- Open _**PlateApp.m**_ file and run it \
